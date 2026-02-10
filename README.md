@@ -168,7 +168,7 @@ gtk3
 spicetify-cli  # Spotify customization
 ghostty        # Alternative terminal emulator (optional)
 
-# Note: Oh My Zsh and Powerlevel10k are installed separately (see Installation section, Step 5)
+# Note: Oh My Zsh and Powerlevel10k are installed separately (see Step 5: Configure Shell)
 ```
 </details>
 
