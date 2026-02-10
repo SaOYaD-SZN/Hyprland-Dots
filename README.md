@@ -143,8 +143,6 @@ hyprland hyprpaper hypridle hyprlock
 
 # Shell & Terminal
 zsh kitty
-oh-my-zsh
-powerlevel10k
 
 # Widgets & Bar
 ags
@@ -166,9 +164,11 @@ qt5ct qt6ct
 nwg-look
 gtk3
 
-# Media
+# Media & Extras
 spicetify-cli  # Spotify customization
-ghostty        # Terminal emulator
+ghostty        # Alternative terminal emulator (optional)
+
+# Note: Oh My Zsh and Powerlevel10k are installed separately (see Step 5)
 ```
 </details>
 
@@ -523,7 +523,7 @@ fc-cache -fv
 ```bash
 # Reset to default
 mv ~/.zshrc ~/.zshrc.backup
-cp /home/runner/work/Hyprland-Dots/Hyprland-Dots/.zshrc ~/.zshrc
+cp ~/Hyprland-Dots/.zshrc ~/.zshrc
 
 # Source the configuration
 source ~/.zshrc
