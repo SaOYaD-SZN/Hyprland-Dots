@@ -168,7 +168,7 @@ gtk3
 spicetify-cli  # Spotify customization
 ghostty        # Alternative terminal emulator (optional)
 
-# Note: Oh My Zsh and Powerlevel10k are installed separately (see "Configure Shell" section below)
+# Note: Oh My Zsh and Powerlevel10k are installed separately (see Installation section, Step 5)
 ```
 </details>
 
@@ -311,6 +311,9 @@ yay -S spicetify-cli ghostty
 ```bash
 git clone https://github.com/SaOYaD123/Hyprland-Dots.git ~/Hyprland-Dots
 cd ~/Hyprland-Dots
+
+# Note: The rest of this guide assumes you cloned to ~/Hyprland-Dots
+# If you used a different path, adjust the commands accordingly
 ```
 
 ### Step 3: Backup Existing Configuration
