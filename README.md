@@ -13,7 +13,7 @@
   <img src="https://img.shields.io/badge/Hyprland-Dynamic-A277FF?style=for-the-badge&logo=wayland&logoColor=white&labelColor=1a1b27" alt="Hyprland"/>
   <img src="https://img.shields.io/badge/Arch-BTW-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white&labelColor=1a1b27" alt="Arch Linux"/>
   <img src="https://img.shields.io/badge/Maintained-Active-61FFCA?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1b27" alt="Maintained"/>
-  <img src="https://img.shields.io/github/stars/SaOYaD123/Hyprland-Dots?style=for-the-badge&logo=starship&color=FFB86C&labelColor=1a1b27" alt="Stars"/>
+  <img src="https://img.shields.io/github/stars/SaOYaD-SZN/Hyprland-Dots?style=for-the-badge&logo=starship&color=FFB86C&labelColor=1a1b27" alt="Stars"/>
 </p>
 
 <br>
@@ -217,7 +217,7 @@ Full customization
 
 ```bash
 # Clone the repository to your system
-git clone https://github.com/SaOYaD123/Hyprland-Dots.git ~/saoyad
+git clone https://github.com/SaOYaD-SZN/Hyprland-Dots.git ~/saoyad
 
 # Enter the directory
 cd ~/saoyad
@@ -548,7 +548,7 @@ See the [LICENSE](LICENSE) file for details
 
 ### 🐛 **Found a Bug?**
 
-[Open an Issue](https://github.com/SaOYaD123/Hyprland-Dots/issues/new)
+[Open an Issue](https://github.com/SaOYaD-SZN/Hyprland-Dots/issues/new)
 
 Report bugs & technical problems
 
@@ -557,7 +557,7 @@ Report bugs & technical problems
 
 ### 💡 **Have an Idea?**
 
-[Start a Discussion](https://github.com/SaOYaD123/Hyprland-Dots/discussions)
+[Start a Discussion](https://github.com/SaOYaD-SZN/Hyprland-Dots/discussions)
 
 Share suggestions & feedback
 
@@ -566,7 +566,7 @@ Share suggestions & feedback
 
 ### ⭐ **Love This Project?**
 
-[Star on GitHub](https://github.com/SaOYaD123/Hyprland-Dots)
+[Star on GitHub](https://github.com/SaOYaD-SZN/Hyprland-Dots)
 
 Show your support!
 
@@ -579,10 +579,10 @@ Show your support!
 ### 🌐 **Find Me Online**
 
 <p align="center">
-  <a href="https://github.com/SaOYaD123">
-    <img src="https://img.shields.io/badge/GitHub-SaOYaD123-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <a href="https://github.com/SaOYaD-SZN">
+    <img src="https://img.shields.io/badge/GitHub-SaOYaD--SZN-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://github.com/SaOYaD123/Hyprland-Dots">
+  <a href="https://github.com/SaOYaD-SZN/Hyprland-Dots">
     <img src="https://img.shields.io/badge/Repository-Hyprland--Dots-A277FF?style=for-the-badge&logo=github&logoColor=white" alt="Repository"/>
   </a>
 </p>
