@@ -131,7 +131,7 @@
 1. Clone this repository
 
 ```sh
-git clone https://github.com/MuntasirSZN/dotfiles
+git clone https://github.com/SaOYaD-SZN/Hyprland-Dots
 ```
 
 2. If you have any configurations present, move it into backup.
